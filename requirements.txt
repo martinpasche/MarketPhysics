@@ -1,0 +1,16 @@
+yfinance
+matplotlib
+seaborn
+powerlaw
+numpy
+pandas
+scipy
+statsmodels
+tqdm
+numba
+jupyter
+jupyterlab
+ipykernel
+ipywidgets
+pyarrow
+fastparquet
